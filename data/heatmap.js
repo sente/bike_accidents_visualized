@@ -1,4 +1,4 @@
- var neighborhoods = [ new google.maps.LatLng(42.3631821, -71.0976772),
+ var accidents = [ new google.maps.LatLng(42.3631821, -71.0976772),
 new google.maps.LatLng(42.358261, -71.100746),
 new google.maps.LatLng(42.3749177, -71.1100676),
 new google.maps.LatLng(42.3626897, -71.0900485),
